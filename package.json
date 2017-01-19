@@ -1,0 +1,30 @@
+{
+	"name": "theme-dark-plus-contrast",
+	"displayName": "Default Dark+ Contrast",
+	"description": "The default Dark+ with black background and few other tweaks to improve contrast. Based on the original Dark+ theme.",
+	"categories": [ "Themes" ],
+	"version": "0.1.11",
+	"publisher": "k3a",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark+ (contrast)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark_plus.json"
+			},
+			{
+				"label": "Hidden High Contrast (hc_black)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/hc_black.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "vs-minimal",
+				"label": "Minimal (Visual Studio Code)",
+				"path": "./fileicons/vs_minimal_icons.json"
+			}
+		]
+	}
+}
