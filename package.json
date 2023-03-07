@@ -3,7 +3,7 @@
 	"displayName": "Default Dark+ Contrast",
 	"description": "The default Dark+ with black background and few other tweaks to improve contrast. Based on the original Dark+ theme.",
 	"categories": [ "Themes" ],
-	"version": "0.1.101",
+	"version": "0.1.102",
 	"publisher": "k3a",
 	"hoepage": "https://github.com/k3a/theme-darkplus-contrast",
 	"engines": { "vscode": "*" },

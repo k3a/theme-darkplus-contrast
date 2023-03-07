@@ -1,7 +1,13 @@
 {
+        "$schema": "vscode://schemas/color-theme",
 	"name": "Dark+",
 	"include": "./dark_vs.json",
-	"settings": [
+        "colors": {
+            "editor.background": "#000000",
+            "editor.foreground": "#ffffff",
+            "editor.selectionHighlightBorder": "#79aad0"
+        },
+	"tokenColors": [
 		{
 			"name": "Function declarations",
 			"scope": [

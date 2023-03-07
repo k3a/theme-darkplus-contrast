@@ -1,6 +1,7 @@
 {
+        "$schema": "vscode://schemas/color-theme",
 	"name": "Dark Visual Studio",
-	"settings": [
+	"tokenColors": [
 		{
 			"settings": {
 				"foreground": "#FFFFFF",
